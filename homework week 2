@@ -1,0 +1,37 @@
+<html>
+	<head>
+		<title> Homework 1 </title>
+	</head>
+	<body>
+		<h1> Homework 1 </h1>
+		<h2>What does HTML stand for?</h2>
+			<p>HTML stands for hypertext mockup language.</p>
+		<h2>What does CSS stand for?</h2>
+			<p>CSS stands for Cascading Style Sheets.</p>
+		<h2>What is the name of the tag that comes first on any web page?</h2>
+			<p>HTML</p>
+		<h2>What is the name of the tag that contains the stuff you will see in the main + browser window?</h2>
+			<p>Body</p>
+		<h2>How can you see the HTML of a page in your browser?</h2>
+			<p>In Chrome, go to View -> Developer -> View Source.</p>
+		<h2>What is semantic markup?</h2>
+			<p>Semantic means "meaning," and semantic HTML is focused on giving your content meaning. To do so, you must use HTML tags that describe your content appropriately.</p>
+		<h2>How many types of headlines are there?</h2>
+			<p>There are six types of headlines.</p>
+		<h2>What happens if you use multiple spaces?</h2>
+			<p>If you use multiple spaces, browsers will display as one space.</p>
+		<h2>Name 3 types of lists and describe each one.</h2>
+			<p>The three types of lists are: ordered, unordered, and definition.</p>
+			<ol>
+				<li>Ordered: lists where each item in the list is numbered.</li>
+				<li>Unordered: lists that begin with a bullet point (rather than characters that indicate order)</li>
+				<li>Definition: lists made up of a set of terms along with the definitions of each of those terms.</li>
+			</ol>
+		<h2>Name 3 things links let you do.</h2>
+			<p>Links can let you: link to other sites, link to other pages on the same site, and start up your email program and address a new email to someone.</p>
+		<h2>What is a URL?</h2>
+			<p>A URL is URL stands for Uniform Resource Locator, and is used to specify addresses on the World Wide Web.</p>
+		<h2>What does it mean if a website is live?</h2>
+			<p>If a website is live, that means it's accessible by anyone with the URL address.</p>
+	</body>
+</html>
