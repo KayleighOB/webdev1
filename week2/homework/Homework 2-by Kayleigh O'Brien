@@ -1,0 +1,27 @@
+<html>
+	<head>
+		<title>Kayleigh</title>
+	</head>
+	<body>
+		<h1>
+		<img src="logo.jpg" alt="Kayleigh O'Brien, her story represented via stages of awkwardness" />
+		</h1>
+<h2> Before we get started, here's a few things you should know about me: </h2>
+<ul>
+	<li> I'm new at this. </li>
+	<li> I think computers are fun. </li>
+	<li> I also think HTML is a little intimidating. </li>
+</ul>
+<h3>I'm also a little bit, how to we say...<a href="https://www.youtube.com/watch?v=tJ30QQZikzI"> awkward</a>
+</h3>
+<h3> To prove my point, here's a picture of me when I was a preteen:</h3>
+<figure>
+	<img src="preteen.jpg" alt= "photo of me being majestic" />
+	<br />
+	<figcaption> I warned you, okay? </figcaption>
+</figure>
+
+
+
+</body>
+</html>
